@@ -1,3 +1,3 @@
 # Sell-Product
 Hello Huy
-Trang a(https://github.com/123huyvippro97/Sell-Product/blob/master/index.html)
+[Trang a](https://123huyvippro97.github.io/Sell-Product/huy)
